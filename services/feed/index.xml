@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Услуги - Кандидат 1</title>
+	<atom:link href="/services/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Tue, 17 Aug 2021 11:03:33 +0000</lastBuildDate>
+	<language>ru-RU</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8</generator>
+
+<image>
+	<url>/wp-content/uploads/2021/08/fav-main-150x150.png</url>
+	<title>Услуги - Кандидат 1</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Тестирование</title>
+		<link>/services/qa/</link>
+		
+		<dc:creator><![CDATA[siteup]]></dc:creator>
+		<pubDate>Sun, 15 Aug 2021 21:02:52 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=services&#038;p=219</guid>
+
+					<description><![CDATA[Полный спектр услуг контроля качества. Планирование процесса тестирования для успешной разработки.]]></description>
+										<content:encoded><![CDATA[Полный спектр услуг контроля качества. Планирование процесса тестирования для успешной разработки.]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Поддержка сайтов</title>
+		<link>/services/support/</link>
+		
+		<dc:creator><![CDATA[siteup]]></dc:creator>
+		<pubDate>Sun, 15 Aug 2021 21:02:01 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=services&#038;p=218</guid>
+
+					<description><![CDATA[Полный спектр услуг технической поддержки для качественного функционирования вашего ресурса.]]></description>
+										<content:encoded><![CDATA[Полный спектр услуг технической поддержки для качественного функционирования вашего ресурса.]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Брендинг и дизайн</title>
+		<link>/services/design/</link>
+		
+		<dc:creator><![CDATA[siteup]]></dc:creator>
+		<pubDate>Sun, 15 Aug 2021 21:00:13 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=services&#038;p=217</guid>
+
+					<description><![CDATA[Умный дизайн логотипов, разработка фирменного стиля, рекламы и полиграфии.]]></description>
+										<content:encoded><![CDATA[Умный дизайн логотипов, разработка фирменного стиля, рекламы и полиграфии.]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Контекстная реклама</title>
+		<link>/services/ppc/</link>
+		
+		<dc:creator><![CDATA[siteup]]></dc:creator>
+		<pubDate>Sun, 15 Aug 2021 20:59:46 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=services&#038;p=216</guid>
+
+					<description><![CDATA[Размещение объявлений сайта вашей  компании в результатах поиска  Google и Yandex.]]></description>
+										<content:encoded><![CDATA[Размещение объявлений сайта вашей  компании в результатах поиска  Google и Yandex.]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Поисковое продвижение</title>
+		<link>/services/seo/</link>
+		
+		<dc:creator><![CDATA[siteup]]></dc:creator>
+		<pubDate>Sun, 15 Aug 2021 20:59:27 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=services&#038;p=215</guid>
+
+					<description><![CDATA[Комплексное продвижение сайтов в поисковых системах Яндекс и Google.]]></description>
+										<content:encoded><![CDATA[Комплексное продвижение сайтов в поисковых системах Яндекс и Google.]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Разработка</title>
+		<link>/services/web-dev/</link>
+		
+		<dc:creator><![CDATA[siteup]]></dc:creator>
+		<pubDate>Sun, 15 Aug 2021 20:59:05 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=services&#038;p=214</guid>
+
+					<description><![CDATA[Создаю работающие сайты, интернет-магазины и web-сервисы. Вам понравится и захочется еще!]]></description>
+										<content:encoded><![CDATA[Создаю работающие сайты, интернет-магазины и web-сервисы. Вам понравится и захочется еще!]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
